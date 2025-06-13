@@ -29,7 +29,6 @@ Este repositório contém uma coleção de projetos básicos desenvolvidos com A
 | `semaforo`          | Simulação de semáforo com LEDs                     |
 | `piano`             | Piano simples utilizando botões e buzzer           |
 | `jogo_1.0`          | Jogo de reação com LEDs e botões                   |
-| `sensor_temperatura`| Leitura de temperatura com sensor LM35            |
 | `alarme_presenca`   | Sistema de alarme com sensor PIR                   |
 | `controle_lcd`      | Interface de menu em display LCD com botões        |
 | `servo_motor`       | Controle de posição de servo motor                 |
